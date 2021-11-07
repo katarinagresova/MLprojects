@@ -6,5 +6,6 @@ This project is about trying some recommenadation systems approaches to build a 
 
 ## Content
 
-- [playground.ipynb](https://github.com/katarinagresova/MLprojects/blob/main/BookRecommendations/playground.ipynb) - place for trying various paths before building final model
-- [research.ipynb](https://github.com/katarinagresova/MLprojects/blob/main/BookRecommendations/research.ipynb) - place for notes during research
+- [data_preprocessing.ipynb](https://github.com/katarinagresova/MLprojects/blob/main/BookRecommendations/data_preprocessing.ipynb) - finalized data preprocessing pipeline
+- [playground.ipynb](https://github.com/katarinagresova/MLprojects/blob/main/BookRecommendations/playground.ipynb) - trying various paths before building final model
+- [research.ipynb](https://github.com/katarinagresova/MLprojects/blob/main/BookRecommendations/research.ipynb) - notes during research
