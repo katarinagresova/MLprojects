@@ -10,6 +10,8 @@ This project is about trying some recommendation systems approaches to build a b
   - preprocessed data and model
 - [IBCF_page.ipynb](https://github.com/katarinagresova/MLprojects/blob/main/BookRecommendations/IBCF_page.ipynb) 
   - interactive demonstration of books recommendation system using item-based collaborative filtering created in [item_basedCF.ipynb](https://github.com/katarinagresova/MLprojects/blob/main/BookRecommendations/item_basedCF.ipynb). Run this notebook in Google Colab (or locally) to see interactive application.
+- [ideas.md](https://github.com/katarinagresova/MLprojects/blob/main/BookRecommendations/ideas.md)
+  - thoughts and questions about things that could be done. But were not.
 - [data_preprocessing.ipynb](https://github.com/katarinagresova/MLprojects/blob/main/BookRecommendations/data_preprocessing.ipynb) 
   - finalized data preprocessing pipeline.
 - [item_basedCF.ipynb](https://github.com/katarinagresova/MLprojects/blob/main/BookRecommendations/item_basedCF.ipynb) 
