@@ -23,7 +23,7 @@ Recommendation systems are everywhere. Companies are relying on them to get bett
 
 This project is about trying some recommendation systems approaches to build a book recommendation model.
 
-To get some book recommendations, open [IBCF_page notebook](https://github.com/katarinagresova/MLprojects/blob/main/BookRecommendations/IBCF_page.ipynb) in Colab and run it.
+To get some book recommendations, open [IBCF_page notebook](IBCF_page.ipynb) in Colab and run it.
 
 ## Content
 
