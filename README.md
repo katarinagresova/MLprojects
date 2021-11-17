@@ -1,2 +1,2 @@
 # MLprojects
-Collection of small to medium ML related projects.
+Collection of ML related projects and ML related course notes.
