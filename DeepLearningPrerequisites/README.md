@@ -15,10 +15,10 @@ If you’ve taken a deep learning or machine learning course, and you understand
 The Numpy Stack in Python is a set of technologies that will enable you, the data scientist, to efficiently perform all stages of a data project, including gathering and manipulating data, exploratory data analysis, visualizing data, and finally implementing algorithms and models to make useful inferences from your data.
 
 ### Fundamental technologies:
- - [NumPy](https://github.com/katarinagresova/DeepLearningPrerequisites/blob/master/NumPy.ipynb)
- - [Matplotlib](https://github.com/katarinagresova/DeepLearningPrerequisites/blob/master/Matplotlib.ipynb)
- - [Pandas](https://github.com/katarinagresova/DeepLearningPrerequisites/blob/master/Pandas.ipynb)
- - [SciPy](https://github.com/katarinagresova/DeepLearningPrerequisites/blob/master/SciPy.ipynb)
+ - [NumPy](https://github.com/katarinagresova/MLprojects/blob/main/DeepLearningPrerequisites/NumPy.ipynb)
+ - [Matplotlib](https://github.com/katarinagresova/MLprojects/blob/main/DeepLearningPrerequisites/Matplotlib.ipynb)
+ - [Pandas](https://github.com/katarinagresova/MLprojects/blob/main/DeepLearningPrerequisites/Pandas.ipynb)
+ - [SciPy](https://github.com/katarinagresova/MLprojects/blob/main/DeepLearningPrerequisites/SciPy.ipynb)
 
 These are a set of libraries that work together in unison to help you do useful data science tasks in Python. It is called *The NumPy Stack* because NumPy forms the core of all these technologies by giving us the NumPy array.
 
@@ -32,7 +32,7 @@ The NumPy array is a fundamental data structure that can represent vectors, matr
 
 ## Exercises
 
-Learning theory means nothing without practising it: [Exercises](https://github.com/katarinagresova/DeepLearningPrerequisites/blob/master/Exercises.ipynb)
+Learning theory means nothing without practising it: [Exercises](https://github.com/katarinagresova/MLprojects/blob/main/DeepLearningPrerequisites/Exercises.ipynb)
 
 ---
 
