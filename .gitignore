@@ -109,3 +109,6 @@ venv.bak/
 *-solved.ipynb
 
 .idea/
+
+# macos
+.DS_Store
